@@ -24,8 +24,8 @@ Mainnet Validator Rank 118
 Additionaly having a Backup Node
 Testnet Validator 
 Running IBC Relayer 
-New Youtube Channel (Explaining the Basics)
-https://www.youtube.com/channel/UCsRS3GBpRzzst8r3QgyoCPw
+Added guide for Relayer - Rly - IBC-Go relayer --> https://github.com/CosmosContracts/docs/pull/65
+New Youtube Channel (Explaining the Basics)--> https://www.youtube.com/channel/UCsRS3GBpRzzst8r3QgyoCPw
 
 $PASG Network
 
@@ -42,3 +42,9 @@ Running Relayer
 $STRIDE <> $OSMO | $JUNO 
 $JUNO <> $AKT | $XPRT | $NGM | $BTSG | $SCRT
 
+Testnets
+
+$Celestia
+
+$NOIS
+https://testnet.ping.pub/nois/staking/noisvaloper1vj6ydcqycrxe8lnn8z75pdy52gvr0nzuk9nc29
